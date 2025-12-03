@@ -1,0 +1,100 @@
+INSTRUCCIONES DE IMPRESIÓN DE ADOBE INDESIGN PARA EL INFORME DEL PROVEEDOR DE SERVICIOS
+
+NOMBRE DEL DOCUMENTO: Muestra_Portada.indd
+
+FECHA DEL PAQUETE: 8/6/23 18:46
+Fecha de creación: 8/6/23
+Fecha de modificación: 8/6/23
+
+INFORMACIÓN DE CONTACTO
+
+Nombre de la empresa: 
+Contacto: 
+Dirección: 
+
+
+
+
+
+Teléfono: 
+Fax: 
+Correo electrónico: 
+
+INSTRUCCIONES ESPECIALES Y OTRAS NOTAS
+
+
+
+
+
+
+Plugins externos 0
+Objetos no opacos: En la página1
+
+FUENTES
+9 fuente(s) utilizada(s); 0 No disponibles, 0 Incrustado, 0 incompleta(s), 0 protegida(s)
+
+Fuentes empaquetadas
+- Nombre: HelveticaLTStd-Blk; Tipo: OpenType Type 1, Estado: OK
+- Nombre: HelveticaLTStd-Bold; Tipo: OpenType Type 1, Estado: OK
+- Nombre: HelveticaLTStd-Roman; Tipo: OpenType Type 1, Estado: OK
+- Nombre: HelveticaLTStd-UltraComp; Tipo: OpenType Type 1, Estado: OK
+- Nombre: PTSans-Narrow; Tipo: TrueType, Estado: OK
+- Nombre: PTSans-NarrowBold; Tipo: TrueType, Estado: OK
+- Nombre: PeriodicoDisplay-Md; Tipo: OpenType Type 1, Estado: OK
+- Nombre: PeriodicoDisplay-Rg; Tipo: OpenType Type 1, Estado: OK
+- Nombre: PeriodicoDisplay-UltBlk; Tipo: OpenType Type 1, Estado: OK
+
+
+COLORES Y TINTAS
+4 tinta(s) de cuatricromía; 0 tinta(s) plana(s)
+
+- Nombre y tipo: Cian de cuatricromía; Ángulo: 75,000; Líneas/pulgada: 70,000
+- Nombre y tipo: Magenta de cuatricromía; Ángulo: 15,000; Líneas/pulgada: 70,000
+- Nombre y tipo: Amarillo de cuatricromía; Ángulo: 0,000; Líneas/pulgada: 70,000
+- Nombre y tipo: Negro de cuatricromía; Ángulo: 45,000; Líneas/pulgada: 70,000
+
+
+VÍNCULOS E IMÁGENES
+(Sólo vínculos incrustados y que faltan)
+Vínculos e imágenes: 1 vínculo(s) encontrado(s); 0 modificado(s), 0 No disponibles, 0 inaccesible(s)
+Imágenes: 0 Incrustado, 1 con espacio de color RGB
+
+
+CONFIGURACIÓN DE IMPRESIÓN
+PPD: Independiente del dispositivo, (Archivo PostScript®)
+Imprimir en: Archivo de preimpresión
+Número de copias: 1
+Páginas enfrentadas: No
+Páginas pares/impares: Ambas
+Páginas: Todas
+Prueba: No
+Mosaico: Ninguno
+Escala: 100%, 100%
+Posición de la página: Superior izquierda
+Imprimir capas: Capas visibles, imprimibles
+Marcas de impresión: Ninguna
+Sangrado: 0 mm, 0 mm, 0 mm, 0 mm
+Color: CMYK compuesto
+Modo de reventado: Ninguno
+Enviar datos de la imagen: Todo
+Sustitución de imagen OPI/DCS: No
+Tamaño de página: A medida: 200 mm x 270 mm
+Dimensiones del papel: 0 mm x 0 mm
+Orientación: Vertical
+Negativo: No
+Modo de volteo: Desactivado
+
+
+LISTA DEL PAQUETE DE ARCHIVOS
+
+1. Muestra_Portada.indd; tipo: Documento de Adobe InDesign; tamaño: 2444K
+2. Muestra_Portada.idml; tipo: Documento InDesign Markup; tamaño: 90K
+3. Muestra_Portada.pdf; tipo: Documento Adobe Acrobat; tamaño: 2249K
+4. HelveticaLTStd-Blk.otf; tipo: Archivo de fuentes; tamaño: 28K
+5. HelveticaLTStd-Bold.otf; tipo: Archivo de fuentes; tamaño: 44K
+6. HelveticaLTStd-Roman.otf; tipo: Archivo de fuentes; tamaño: 44K
+7. HelveticaLTStd-UltraComp.otf; tipo: Archivo de fuentes; tamaño: 26K
+8. PTSans.ttc; tipo: Archivo de fuentes; tamaño: 2729K
+9. PeriodicoDisplay-Md.otf; tipo: Archivo de fuentes; tamaño: 51K
+10. PeriodicoDisplay-Rg.otf; tipo: Archivo de fuentes; tamaño: 51K
+11. PeriodicoDisplay-UltBlk.otf; tipo: Archivo de fuentes; tamaño: 51K
